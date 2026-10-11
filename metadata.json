@@ -1,0 +1,6 @@
+{
+  "name": "SVG Teaching Visual Tester",
+  "description": "A technical experiment to test whether different Gemini models can generate simple, age-appropriate educational SVG line drawings for children in Classes 1–5.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
